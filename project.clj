@@ -1,4 +1,4 @@
-(defproject robhanlon22/mount-lite "2.1.8"
+(defproject robhanlon22/mount-lite "2.1.9"
   :description "mount, but different and light"
   :url "https://github.com/aroemers/mount-lite"
   :license {:name "Eclipse Public License"
